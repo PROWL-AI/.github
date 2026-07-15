@@ -1,0 +1,2 @@
+# .github
+https://prowl.chat
