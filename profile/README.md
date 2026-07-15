@@ -21,12 +21,6 @@ claude plugin install prowl@prowl
 
 → **Skill repo: [github.com/PROWL-AI/prowl-skill](https://github.com/PROWL-AI/prowl-skill)** — the installable Claude Code / Codex plugin (namespaced `/prowl:*` skill + hosted MCP config).
 
-## Repositories
-
-| Repo | What |
-|------|------|
-| **[prowl-skill](https://github.com/PROWL-AI/prowl-skill)** | Public install/usage skill + hosted Prowl MCP config — drop-in for Claude Code / Codex. |
-| **prowl-app** | Core engine — MCP server, multi-agent orchestrator, 385-tool registry, and web app. |
 
 ## What's inside
 
